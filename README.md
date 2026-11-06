@@ -2,6 +2,8 @@
 
 A high-fidelity, interactive wedding invitation web experience featuring playful animations, GSAP scroll-triggered choreography, 3D object frame sequences, and 100% visual and animation parity across desktop, tablet, and mobile devices.
 
+🌐 **Live Website:** [https://harshwardhansingh145.github.io/rajawat-wedding-invitation/](https://harshwardhansingh145.github.io/rajawat-wedding-invitation/)
+
 ---
 
 ## 🌟 Highlights
@@ -67,3 +69,4 @@ http://localhost:8080/invitation.html
 ## 📜 License
 
 Created for the Rajawat Family Wedding. All rights reserved.
+
